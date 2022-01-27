@@ -1,0 +1,19 @@
+$primer: red;
+$secondry: green;
+$text-color: grey;
+$font-size-small: 16px;
+
+
+h1 {
+    color: $primer;
+}
+
+.container {
+    h2 {
+        color: $secondry;
+    }
+    p {
+        color: $text-color;
+        font-size: $font-size-small;
+    }
+}
